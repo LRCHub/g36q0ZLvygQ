@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "REBEL HEART",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-09T08:09:27.150868Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rebel Heart",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_Rebel_Heart_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rebel Heart",
+      "artist": "The Corrs",
+      "has_synced": false,
+      "path": "select/02_Rebel_Heart_The_Corrs.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rebel Heart",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/03_Rebel_Heart_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WWE: Rebel Heart (Johnny Gargano)",
+      "artist": "CFO$",
+      "has_synced": true,
+      "path": "select/04_WWE__Rebel_Heart_(Johnny_Gargano)_CFO$.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rebel Heart",
+      "artist": "Kane Roberts",
+      "has_synced": false,
+      "path": "select/05_Rebel_Heart_Kane_Roberts.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Ol' Rebel Heart",
+      "artist": "Dezperadoz",
+      "has_synced": false,
+      "path": "select/06_My_Ol'_Rebel_Heart_Dezperadoz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rebel Heart",
+      "artist": "First Aid Kit",
+      "has_synced": true,
+      "path": "select/07_Rebel_Heart_First_Aid_Kit.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rebel Heart Tour Intro - Live",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/08_Rebel_Heart_Tour_Intro_-_Live_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rebel Heart Tour Intro",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/09_Rebel_Heart_Tour_Intro_Madonna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rebel Heart",
+      "artist": "Lauren Daigle",
+      "has_synced": true,
+      "path": "select/10_Rebel_Heart_Lauren_Daigle.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rebel Heart (LP Version)",
+      "artist": "The Corrs",
+      "has_synced": false,
+      "path": "select/11_Rebel_Heart_(LP_Version)_The_Corrs.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "WWE NXT Johnny Gargano - Rebel Heart",
+      "artist": "WWE™",
+      "has_synced": true,
+      "path": "select/12_WWE_NXT_Johnny_Gargano_-_Rebel_Heart_WWETM.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rebel Heart (Demo)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/13_Rebel_Heart_(Demo)_Madonna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "REBEL HEART",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_REBEL_HEART_IVE.txt"
+    }
+  ]
+}
