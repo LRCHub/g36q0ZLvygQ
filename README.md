@@ -1,51 +1,66 @@
-# Madonna – Rebel Heart
+# IVE – REBEL HEART
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:08.57] I lived my life like a masochist
-[00:12.65] Hearing my father say, "Told you so, told you soo
-[00:16.98] Why can't you be like the other girls?"
-[00:20.64] I said, "Oh no, that's not me
-[00:24.72] And I don't think that it'll ever be"
-[00:43.22] 
-[00:29.22] Thought I belong to a different tribe
-[00:33.48] Walking alone, never satisfied, satisfied
-[00:37.67] Tried to fit in, but it wasn't me
-[00:41.54] I said, "Oh no, I want more
-[00:45.96] That's not what I'm looking for"
-[01:01.96] 
-[00:51.85] So I took the road less traveled by
-[00:56.04] And I barely made it out alive
-[01:00.20] Through the darkness, somehow I survived
-[01:05.26] Tough love, I knew it from the start
-[01:09.41] Deep down in the depth of my rebel heart
-[01:29.41] 
-[01:23.57] I spent some time as a narcissist
-[01:27.63] Hearing the others say, "Look at you, look at you"
-[01:32.18] Trying to be so provocative
-[01:35.61] I said, "Oh yeah, that was me"
-[01:39.84] All the things I did just to be seen
-[01:57.84] 
-[01:44.42] Outgrown my past and I've shed my skin
-[01:48.41] Letting it go and I'll start again, start again
-[01:52.96] Never look back, it's a waste of time
-[01:56.76] I said, "Oh yeah, this is me"
-[02:00.95] And I'm right here where I wanna be
-[02:04.81] I said, "Hell yeah, this is me"
-[02:09.47] Right where I'm supposed to be
-[02:24.47] 
-[02:15.22] So I took the road less traveled by
-[02:19.59] And I barely made it out alive
-[02:23.73] Through the darkness, somehow I survived
-[02:28.72] Tough love, I knew it from the start
-[02:32.98] Deep down in my rebel heart
-[02:46.48] 
-[02:36.19] So I took the road less traveled by
-[02:40.30] And I barely made it out alive
-[02:44.51] Through the darkness, somehow I survived
-[02:49.52] Tough love, I knew it from the start
-[02:53.82] Deep down in the depth of my rebel heart
-[03:07.10] My rebel heart
-[03:15.39] My rebel heart
+```
+시작은 항상 다 이룬 것처럼
+엔딩은 마치 승리한 것처럼
+겁내지 않고 마음을 쏟을래
+내 모양대로
+이제 더 이상 신경 쓰지 않아
+어디에서도 내 맘을 지키기
+오해 받을 땐 자유에 맡겨둘래
+다 알게 될 거니까
+So you can
+Love me, hate me
+You will
+never be never be never be me
+Try me, I'll break free
+You will
+never be never be never be me
+We are rebels in our heart,
+Rebels in our heart
+We are rebels in our heart
+We are rebels in our heart,
+꺾이지 않아
+We are rebels in our heart
+너는 어디가 조금 부족해
+너는 거기가 뭔가 좀 넘쳐
+I don't care 뭐든 말은 참 쉽지
+그래 실행이 어려운 거야
+Do it, move it, do it
+우린 그냥 할게
+내 갈 길은 멀고
+그 위에는 드라마가 있어
+또 외로움이 너무 길어지는 밤엔
+그 맘을 쏘아 올려
+Love me, hate me
+You will
+never be never be never be me
+Try me, I'll break free
+You will
+never be never be never be me
+We are rebels in our heart,
+Rebels in our heart
+We are rebels in our heart
+We are rebels in our heart,
+꺾이지 않아
+We are rebels in our heart
+Rebels in our heart!
+우린 따로 이유를 묻지 않고
+서로가 필요할 때가 있어
+그런 맘이 어떤 건지 잘 알기에
+영원을 바라는 사이보단
+지금을 이해해주고 싶어
+We will always be the rebels
+Come, join as who you are
+We are rebels, we are one
+이 마음만으로
+We are rebels, we are one
+We are rebels in our heart,
+Rebels in our heart
+We are rebels in our heart
+We are rebels in our heart,
+꺾이지 않아
+We are rebels in our heart
 ```
